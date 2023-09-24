@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\hello\OneDrive\Documents\GitHub\NavMaze\venv"
+VIRTUAL_ENV="C:\Users\rsaza\OneDrive\Documents\GitHub\NavMaze\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
